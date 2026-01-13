@@ -38,22 +38,7 @@ Built using **React, Node.js, Express, MongoDB, and JWT authentication**.
 
 ## 📂 Project Structure
 
-taskmanager_assignment/
-│
-├── client/ # React frontend
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── components/
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│
-├── server/ # Node + Express backend
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── server.js
-│
-└── README.md
+<img width="309" height="448" alt="image" src="https://github.com/user-attachments/assets/6c90ef9a-dad8-43b2-acbe-38041b9543ba" />
 
 
 ---
